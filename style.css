@@ -17,7 +17,7 @@
     font-size: 95px;
 }
 
-.home h1{
+.homepage h1{
     text-align: center;
 }
 .form{
@@ -27,10 +27,10 @@
     display: inline-block;
     width: 400px;
     border-radius: 4px;
-    height: 20px;
+    height: 25px;
 }
 
 .btn{
-    margin: 8px;
+    margin: 4px;
     border-radius: 2px;
 }
