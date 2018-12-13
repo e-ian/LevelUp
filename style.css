@@ -1,0 +1,36 @@
+#lg{
+    color: blue;
+    font-size: 95px;
+}
+
+#lo{
+    color: red;
+    font-size: 95px;
+}
+
+#lo1{
+    color: yellow;
+    font-size: 95px;
+}
+#ll{
+    color: green;
+    font-size: 95px;
+}
+
+.home h1{
+    text-align: center;
+}
+.form{
+    text-align: center;
+}
+.form input[type="text"]{
+    display: inline-block;
+    width: 400px;
+    border-radius: 4px;
+    height: 20px;
+}
+
+.btn{
+    margin: 8px;
+    border-radius: 2px;
+}
